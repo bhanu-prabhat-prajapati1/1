@@ -57,8 +57,6 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-
-# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=bhanu-prabhat-prajapati1&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=bhanu-prabhat-prajapati1&theme=one_dark_pro&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bhanu-prabhat-prajapati1&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
