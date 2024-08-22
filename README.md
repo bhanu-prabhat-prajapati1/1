@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Bhanu+Prabhat+Prajapati!;" />
 </h1>
 
-<h3 align="center">A passionate (BCA) in Data Analytics From Amity University Online 🇨🇦</h3>
+<h3 align="center">A passionate (BCA) in Data Analytics From Amity University Online </h3>
 
 <br/>
 
