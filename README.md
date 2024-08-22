@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Excel, PowerBi, SQL, Python**
 
-💬 Ask me about ***Excel, PowerBi, SQL, Python... or anything [here](https://github.com/salesp07/salesp07/issues)**
+💬 Ask me about ***Excel, PowerBi, SQL, Python... or anything [here](https://github.com/bhanu-prabhat-prajapati1/issues)**
 
 ⚡ Fun fact **With Data**
 
