@@ -37,7 +37,9 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
+    
     <h1 align="center">Excel, PowerBi, SQL, Python</h1>
+    
 </div>
 
 <br/>
